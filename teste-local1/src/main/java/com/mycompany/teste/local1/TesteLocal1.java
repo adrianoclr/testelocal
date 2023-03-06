@@ -11,6 +11,6 @@ package com.mycompany.teste.local1;
 public class TesteLocal1 {
 
     public static void main(String[] args) {
-        System.out.println("HELLO MARS!");
+        System.out.println("HELLO VENUS!");
     }
 }
