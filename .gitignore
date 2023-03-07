@@ -1,5 +1,6 @@
 *.txt
 *.sql
 *.log
+*.doc
 testelocal
 testelocal.pub
